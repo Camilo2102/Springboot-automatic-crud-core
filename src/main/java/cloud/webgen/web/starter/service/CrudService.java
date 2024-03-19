@@ -1,9 +1,9 @@
-package cloud.webgen.web.base.starter.service;
+package cloud.webgen.web.starter.service;
 
 
-import cloud.webgen.web.base.starter.exeptions.HttpException;
-import cloud.webgen.web.base.starter.models.BaseAuditModel;
-import cloud.webgen.web.base.starter.repository.AuditRepository;
+import cloud.webgen.web.starter.exeptions.HttpException;
+import cloud.webgen.web.starter.models.BaseAuditModel;
+import cloud.webgen.web.starter.repository.AuditRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.http.HttpStatus;
 

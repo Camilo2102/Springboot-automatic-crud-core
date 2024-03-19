@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="574be5e7-0d8d-4285-a341-e93ea87852da" name="Changes" comment="" />
+    <list default="true" id="f0d61265-47bf-48b7-b4e5-5067d3b607ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/annotations/AutoControlable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/config/AutoControllableFactoryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/config/WebGenBaseConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/controller/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/exeptions/HttpException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/handler/ErrorHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/models/BaseAuditModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/repository/AuditRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/service/CrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/service/ICrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/utils/BeanLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/utils/BeanProjectFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cloud/webgen/web/starter/utils/StringUtils.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +37,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2dt0YsIUrmvXjTZSqoVfm95ONTX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2dt36LP7amcosyW3LFV7ldjGp6B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,19 +48,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="574be5e7-0d8d-4285-a341-e93ea87852da" name="Changes" comment="" />
-      <created>1710812119630</created>
+      <changelist id="f0d61265-47bf-48b7-b4e5-5067d3b607ed" name="Changes" comment="" />
+      <created>1710813371720</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1710812119630</updated>
-      <workItem from="1710812121815" duration="4000" />
+      <updated>1710813371720</updated>
+      <workItem from="1710813374076" duration="1231000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

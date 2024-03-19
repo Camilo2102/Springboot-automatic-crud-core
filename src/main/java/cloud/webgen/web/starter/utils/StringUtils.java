@@ -1,4 +1,4 @@
-package cloud.webgen.web.base.starter.utils;
+package cloud.webgen.web.starter.utils;
 
 public class StringUtils {
     public static String getFromParking(String parking, String... args) {

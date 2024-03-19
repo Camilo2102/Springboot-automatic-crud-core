@@ -1,4 +1,4 @@
-package cloud.webgen.web.base.starter.models;
+package cloud.webgen.web.starter.models;
 
 import lombok.Getter;
 import lombok.Setter;

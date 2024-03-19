@@ -1,4 +1,4 @@
-package cloud.webgen.web.base.starter.utils;
+package cloud.webgen.web.starter.utils;
 
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
 import org.springframework.context.ApplicationContext;

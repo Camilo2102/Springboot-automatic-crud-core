@@ -1,9 +1,9 @@
-package cloud.webgen.web.base.starter.service;
+package cloud.webgen.web.starter.service;
 
 
 
-import cloud.webgen.web.base.starter.exeptions.HttpException;
-import cloud.webgen.web.base.starter.models.BaseAuditModel;
+import cloud.webgen.web.starter.exeptions.HttpException;
+import cloud.webgen.web.starter.models.BaseAuditModel;
 
 import java.util.List;
 
@@ -45,7 +45,6 @@ public interface ICrudService<T extends BaseAuditModel> {
      * Actualiza un elemento existente en el servicio.
      *
      * @param element Elemento con las actualizaciones.
-     * @param id Identificador único del elemento a ser actualizado.
      * @return Elemento actualizado.
      * @throws HttpException Excepción lanzada si no se encuentra el elemento para actualizar.
      */

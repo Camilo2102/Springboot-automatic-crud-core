@@ -1,6 +1,6 @@
-package cloud.webgen.web.base.starter.handler;
+package cloud.webgen.web.starter.handler;
 
-import cloud.webgen.web.base.starter.exeptions.HttpException;
+import cloud.webgen.web.starter.exeptions.HttpException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

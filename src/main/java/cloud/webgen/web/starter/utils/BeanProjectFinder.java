@@ -1,9 +1,9 @@
-package cloud.webgen.web.base.starter.utils;
+package cloud.webgen.web.starter.utils;
 
-import cloud.webgen.web.base.starter.exeptions.HttpException;
-import cloud.webgen.web.base.starter.repository.AuditRepository;
-import cloud.webgen.web.base.starter.service.CrudService;
-import cloud.webgen.web.base.starter.service.ICrudService;
+
+import cloud.webgen.web.starter.exeptions.HttpException;
+import cloud.webgen.web.starter.repository.AuditRepository;
+import cloud.webgen.web.starter.service.CrudService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Component;

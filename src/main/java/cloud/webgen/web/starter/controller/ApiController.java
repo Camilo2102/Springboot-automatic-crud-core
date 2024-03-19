@@ -1,8 +1,8 @@
-package cloud.webgen.web.base.starter.controller;
+package cloud.webgen.web.starter.controller;
 
-import cloud.webgen.web.base.starter.exeptions.HttpException;
-import cloud.webgen.web.base.starter.service.CrudService;
-import cloud.webgen.web.base.starter.utils.BeanProjectFinder;
+import cloud.webgen.web.starter.exeptions.HttpException;
+import cloud.webgen.web.starter.service.CrudService;
+import cloud.webgen.web.starter.utils.BeanProjectFinder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -12,6 +12,9 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
+/**
+ *
+ */
 public class ApiController {
     private final BeanProjectFinder beanServiceFinder;
 

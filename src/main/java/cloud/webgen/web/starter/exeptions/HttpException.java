@@ -1,4 +1,4 @@
-package cloud.webgen.web.base.starter.exeptions;
+package cloud.webgen.web.starter.exeptions;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

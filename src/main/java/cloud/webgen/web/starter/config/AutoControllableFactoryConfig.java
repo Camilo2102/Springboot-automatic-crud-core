@@ -1,12 +1,12 @@
-package cloud.webgen.web.base.starter.config;
+package cloud.webgen.web.starter.config;
 
 
-import cloud.webgen.web.base.starter.annotations.AutoControlable;
-import cloud.webgen.web.base.starter.repository.AuditRepository;
-import cloud.webgen.web.base.starter.service.CrudService;
-import cloud.webgen.web.base.starter.utils.BeanLocator;
-import cloud.webgen.web.base.starter.utils.BeanProjectFinder;
-import cloud.webgen.web.base.starter.utils.StringUtils;
+import cloud.webgen.web.starter.annotations.AutoControlable;
+import cloud.webgen.web.starter.repository.AuditRepository;
+import cloud.webgen.web.starter.service.CrudService;
+import cloud.webgen.web.starter.utils.BeanLocator;
+import cloud.webgen.web.starter.utils.BeanProjectFinder;
+import cloud.webgen.web.starter.utils.StringUtils;
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

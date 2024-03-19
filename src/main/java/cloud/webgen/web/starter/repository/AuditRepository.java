@@ -1,6 +1,7 @@
-package cloud.webgen.web.base.starter.repository;
+package cloud.webgen.web.starter.repository;
 
-import cloud.webgen.web.base.starter.models.BaseAuditModel;
+
+import cloud.webgen.web.starter.models.BaseAuditModel;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.NoRepositoryBean;
 

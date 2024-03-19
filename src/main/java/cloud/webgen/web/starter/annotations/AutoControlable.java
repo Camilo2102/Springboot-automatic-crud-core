@@ -1,4 +1,4 @@
-package cloud.webgen.web.base.starter.annotations;
+package cloud.webgen.web.starter.annotations;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
