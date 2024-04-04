@@ -1,6 +1,6 @@
 # Java Library for CRUD Development with Spring Boot
 
-This library provides an agile and straightforward solution for creating CRUD (Create, Read, Update, Delete) operations and their respective endpoints in Spring Boot applications using annotations, available in Sonatype Maven Central:
+This library provides an agile and straightforward solution for creating CRUD (Create, Read, Update, Delete) operations and their respective endpoints in Spring Boot applications using annotations compatible with Netflix Eureka(disable with application.propeties "eureka.client.enabled=false"), available in Sonatype Maven Central:
 
 https://central.sonatype.com/artifact/cloud.webgen.web.starter/web-starter
 
