@@ -1,6 +1,8 @@
 # Java Library for CRUD Development with Spring Boot
 
-This library provides an agile and straightforward solution for creating CRUD (Create, Read, Update, Delete) operations and their respective endpoints in Spring Boot applications using annotations.
+This library provides an agile and straightforward solution for creating CRUD (Create, Read, Update, Delete) operations and their respective endpoints in Spring Boot applications using annotations, available in Sonatype Maven Central:
+
+https://central.sonatype.com/artifact/cloud.webgen.web.starter/web-starter
 
 ## Main Features
 
@@ -29,14 +31,11 @@ The library consists of the following core components:
 4. `AuditRepository` interface
 5. `BaseAuditModel` class
 
-For detailed information, please refer to the library's source code available at the following Maven repository:
-
-https://central.sonatype.com/artifact/cloud.webgen.web.starter/web-starter
-
 ## Usage
 
 1. Create an entity class that extends `BaseAuditModel` and annotate it with `@AutoControlable`.
 2. Define a repository for the entity that implements `AuditRepository`.
 3. Inject the repository into your Spring Boot application.
 4. The library will automatically generate the CRUD endpoints for your entity.
+
 
